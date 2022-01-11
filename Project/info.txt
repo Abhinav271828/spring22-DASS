@@ -1,0 +1,25 @@
+Project title:
+Framework to access and Validate sensor data
+
+Description of project:
+Due to the increasing number of sensor nodes, a large amount of data is being generated. However, factors such as hardware malfunctions, network failures, or cyber-attacks affect data quality and result in inaccurate data generation. Therefore you need to develop a framework for heterogeneous IoT data sources that provides uniform data quality validation.
+
+Features/Database schemas to be implemented:
+emaiol notification,data validation,summary update... etc...
+
+Screens/Algorithms to be implemented:
+oneM2M understanding, algorithms for lesser time complexity...
+
+Technology/Skills required:
+API understanding, Programming Language preferably python
+
+Challenges we see that will have to be addressed:
+understand9ing the data models and nature of the data
+
+First 2 weeks: input gathering and formulating clear requirements
+
+Next 4 weeks: understanding data and design/implementation plan
+
+Next 4 weeks: Prototype implementation
+
+Final 4 weeks: Deployment Testing and Documentation
