@@ -1,25 +1,26 @@
 Project title:
-Framework to access and Validate sensor data
+Smart City Living Lab Dashboard building view implementation
 
 Description of project:
-Due to the increasing number of sensor nodes, a large amount of data is being generated. However, factors such as hardware malfunctions, network failures, or cyber-attacks affect data quality and result in inaccurate data generation. Therefore you need to develop a framework for heterogeneous IoT data sources that provides uniform data quality validation.
+"Smart City living Lab projects collects data from more than 150 nodes on oneM2M server at different frequencies. To visualize the data, 3D building view to be presented and data to be shown as per the location and type of the node. Drill down visualization and data availability is required
+"
 
 Features/Database schemas to be implemented:
-emaiol notification,data validation,summary update... etc...
+3D view representation of buildings...
 
 Screens/Algorithms to be implemented:
-oneM2M understanding, algorithms for lesser time complexity...
+user friendly screens and algorithms to generate insights
 
 Technology/Skills required:
-API understanding, Programming Language preferably python
+python, Django, UI development etc...
 
 Challenges we see that will have to be addressed:
-understand9ing the data models and nature of the data
+Creating a building view
 
-First 2 weeks: input gathering and formulating clear requirements
+First 2 weeks: input and requirement gathering
 
-Next 4 weeks: understanding data and design/implementation plan
+Next 4 weeks: design and architecture plan
 
-Next 4 weeks: Prototype implementation
+Next 4 weeks: Proto implementation
 
-Final 4 weeks: Deployment Testing and Documentation
+Final 4 weeks: Deployment and Testing
