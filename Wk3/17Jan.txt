@@ -1,0 +1,11 @@
+1. Meet attendees:
+    - Dr. Anuradha Vattem (Lead Architect)
+    - Shubham Mante (MS Student)
+    - Surya Suhas Vaddhiparthy (MS Student)
+    - Sai Usha Nagasri (Role unknown)
+
+2. Dr. Anuradha gave us a rough overview of the project and the background of Smart City Living Labs. She explained the high-level requirements. We also got some information about the problems with the existing codebase that we could work on.
+
+3. Yes. The WHAT is an implementation of a building view dashboard for the information coming from a number of sensor nodes in real time. The WHY is a convenient and high-level view of the large amount of real-time data.
+
+4. We need to implement a dashboard which shows the data coming from a number of sensor nodes placed around campus in real time. The dashboard should be in building view and interactive – it should appear as if one is walking around a virtual campus, entering buildings and moving around. Another issue with the existing codebase is the lag in data received from the nodes, which we were instructed to fix if possible.

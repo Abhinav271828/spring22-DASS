@@ -1,0 +1,8 @@
+1. If the software developing team makes assumptions due to incomplete or inadequate specification, they may not align well with the existing requirements. The gap between the assumptions made by the team and the actual requirements of the client can lead to failure of the system, like what happened with the ERP project in Jordan. The outcome in that case was a "huge loss of capital" and "unsatisfied clients". The team of engineers developing the software should clearly list out their assumptions and make sure that they are acceptable to the clients.  
+
+2. Five things we will do to ensure we build what the client expects are:
+    - carefully document all requirements of the client
+    - confirm that what has been written is exactly what the client intends
+    - test the code well so it does not fail once deployed
+    - keep the client updated with progress of the work
+    - make sure communication is always unambiguous, within the team and with the client
